@@ -1,0 +1,14 @@
+modelo logico 
+start npm 
+start express 
+star repo
+star project
+create app 
+run server
+create routes
+config routes 
+config db 
+config data 
+test routes 
+test parms
+refactor
